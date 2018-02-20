@@ -8,7 +8,7 @@ public class Ejercisio2Numeros {
 
 	public static void main(String[] args) {
 		
-		//captura el dato del primer numero
+		
 		System.out.print("Digite el dato del primer numero a utilizar"+"\n");
 		float primerNumero = Input.get_int();
 		
