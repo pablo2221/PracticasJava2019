@@ -14,7 +14,7 @@ public class Ejercisio2Numeros {
 		
 		System.out.print("Digite el dato del segundo numero a utilizar"+"\n");
 		float segundoNumero = Input.get_int();
-		
+		/**/
 
 		if (segundoNumero==0) {
 			
