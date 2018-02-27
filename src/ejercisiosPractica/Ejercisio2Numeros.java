@@ -35,10 +35,10 @@ public class Ejercisio2Numeros {
 		float multiplicacion = primerNumero*segundoNumero;
 		
 		System.out.print("\n");
-		System.out.print("El resultado de la Suma de los 2 numeros es: "+suma+"\n");
-		System.out.print("El resultado de la Resta de los 2 numeros es: "+resta+"\n");
-		System.out.print("El resultado de la Multiplicacion de los 2 numeros es: "+multiplicacion+"\n");
-		System.out.print("El resultado de la Division de los 2 numeros es: "+division+"\n");
+		System.out.print("El resultado de la Suma de ("+primerNumero+" + "+segundoNumero+") es: "+suma+"\n");
+		System.out.print("El resultado de la Resta de ("+primerNumero+" - "+segundoNumero+") es: "+resta+"\n");
+		System.out.print("El resultado de la Multiplicacion de ("+primerNumero+" * "+segundoNumero+") es: "+multiplicacion+"\n");
+		System.out.print("El resultado de la Division de ("+primerNumero+" / "+segundoNumero+") es: "+division+"\n");
 	
 	}
 
